@@ -3,7 +3,7 @@
  export const ItemListContainer = () => {
 
 return(
-    <div>ItemListContainer</div>
+    <div>MangaFull se abrira en Breve!</div>
 
 )
 
