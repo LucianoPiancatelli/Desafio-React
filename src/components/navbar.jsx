@@ -1,4 +1,4 @@
-
+import Carrito from './Carrito.js'
 const Nav =() => {
   return (
 <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
@@ -27,6 +27,7 @@ const Nav =() => {
       </ul>
       
     </div>
+    <Carrito />
   </div>
 </nav>
 
