@@ -1,9 +1,15 @@
  import React from "react";
+ import Counter from "./Contador";
 
  export const ItemListContainer = () => {
 
+   
+
 return(
-    <div>MangaFull se abrira en Breve!</div>
+    <div> <Counter/>
+
+    </div>
+
 
 )
 
