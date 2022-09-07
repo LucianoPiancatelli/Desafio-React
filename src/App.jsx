@@ -1,15 +1,17 @@
 
 import './components/App.css';
-import  Nav from  './components/navbar.jsx'
+import  Nav from  './components/Navbar.jsx'
 import ItemListContainer from './components/Itemlist';
-import Counter from './components/Contador';
+import Productos from './components/Producto';
+
 function App() {
   return (
     <div className="">
      <Nav/>
-     <ItemListContainer/>
+     <Productos/>
     </div>
   );
 }
+
 
 export default App;
